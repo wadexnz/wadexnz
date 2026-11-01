@@ -1,6 +1,6 @@
 ### Hi, I'm Wade
 
-I'm a backend and integrations engineer in Auckland, New Zealand. I've worked at Arbitr (formerly Straker) since 2019. Since 2023 I've been the main maintainer of its published Slack app, and I've also maintained its Microsoft Teams app and the Python services behind them. In 2026 I've also worked on its public API, SDK and MCP endpoint.
+I'm a backend and integrations engineer in Auckland, New Zealand. Most of my professional work is in private repositories; my [website](https://wadexnz.github.io/) has a short summary.
 
 **Public work**
 
@@ -13,7 +13,5 @@ I'm a backend and integrations engineer in Auckland, New Zealand. I've worked at
 - **NZ Expense Agent**: a personal finance app on NZ open banking (Akahu), with an MCP server for AI assistants.
 
 **Stack:** Python (FastAPI, Pydantic, SQLAlchemy, asyncio), PostgreSQL, MySQL, Redis Streams, TypeScript, Node.js, Slack and Microsoft Teams apps, REST/OpenAPI, MCP.
-
-Most of my professional work is in private employer repositories.
 
 [Website](https://wadexnz.github.io/) · [LinkedIn](https://www.linkedin.com/in/wade-norman-643a781b1/)
