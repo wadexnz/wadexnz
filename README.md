@@ -14,7 +14,7 @@ I'm a backend and integrations engineer in Auckland, New Zealand. I've worked at
 
 **Stack:** Python (FastAPI, Pydantic, SQLAlchemy, asyncio), PostgreSQL, MySQL, Redis Streams, TypeScript, Node.js, Slack and Microsoft Teams apps, REST/OpenAPI, MCP.
 
-**How I use AI tools:** I build with coding agents (Cursor, Claude Code, Pi and Amp). I define the specifications, test strategy and acceptance criteria, and I review and verify the agents' changes before merging.
+**How I use AI tools:** I build with AI coding agents. I define the specifications, test strategy and acceptance criteria, and I review and verify the agents' changes before merging.
 
 Most of my professional work is in private employer repositories.
 
