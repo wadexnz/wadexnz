@@ -1,6 +1,6 @@
 ### Hi, I'm Wade
 
-I'm a backend and integrations engineer in Auckland, New Zealand. I've worked at Arbitr (formerly Straker) since 2019. Since 2023 I've mainly worked on its published Slack and Microsoft Teams apps and the Python services behind them, and in 2026 on its public API, SDK and MCP access.
+I'm a backend and integrations engineer in Auckland, New Zealand. I've worked at Arbitr (formerly Straker) since 2019. Since 2023 I've been the main maintainer of its published Slack app, and I've also maintained its Microsoft Teams app and the Python services behind them. In 2026 I've also worked on its public API, SDK and MCP access.
 
 **Public work**
 
@@ -14,7 +14,7 @@ I'm a backend and integrations engineer in Auckland, New Zealand. I've worked at
 
 **Stack:** Python (FastAPI, asyncio, SQLAlchemy), PostgreSQL, Redis Streams, TypeScript/Node, Slack and Teams platforms, REST/OpenAPI, MCP.
 
-**How I use AI tools:** I build with coding agents (Claude Code, Amp, Cursor). I write the specifications and acceptance criteria, and I review every change.
+**How I use AI tools:** I build with coding agents (Cursor, Claude Code, Pi and Amp). I define the specifications, test strategy and acceptance criteria, and I review and verify the agents' changes before merging.
 
 Most of my professional work is in private employer repositories.
 
